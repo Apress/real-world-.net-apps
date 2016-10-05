@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FTPClient", "FTPClient.vbproj", "{47BDD072-1A93-4D2D-BA2D-276ADE9E4130}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{47BDD072-1A93-4D2D-BA2D-276ADE9E4130}.Debug.ActiveCfg = Debug|.NET
+		{47BDD072-1A93-4D2D-BA2D-276ADE9E4130}.Debug.Build.0 = Debug|.NET
+		{47BDD072-1A93-4D2D-BA2D-276ADE9E4130}.Release.ActiveCfg = Release|.NET
+		{47BDD072-1A93-4D2D-BA2D-276ADE9E4130}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

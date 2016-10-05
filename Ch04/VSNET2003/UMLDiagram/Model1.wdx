@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RMS:MODEL xmlns:RMS="http://www.rational.com/products/xde"  xmlns:dt="http://www.rational.com/products/xde"  xmlns:UML="http://www.rational.com/products/xde"  id="fDIQKQUIvUiT8D+bVaM/8A"  unitPolicy="3" >
+<RMS:METAMODEL name="UML 7.0"  id="SRu5vy3weEOOfUkO9LWyYQ"  version="7.0.201.2200"  server="1.1.201.2200"  format="0.27" />
+<RMS:ROOT>
+<UML:Model id="/zZPIj9kdkeJSeszuw7dcw" >
+<UML:Name>WorkspaceModel</UML:Name>
+<UML:Kind>WORKSPACE</UML:Kind>
+<UML:Workspace>
+<UML:Workspace id="vy3QPTxSz0yaGkMJBYvz5g" >
+<UML:DiagramView reserve="1" >
+<UML:DiagramView id="F2JdKOnIx0yGf1DNnWQNbQ" >
+<UML:Extent>(0,0)</UML:Extent>
+<UML:Position>(0,0)</UML:Position>
+<UML:Name>{96864AE0-B364-49E7-9147-CB29E3EFC2BF}</UML:Name>
+<UML:ViewportY>-1560</UML:ViewportY>
+<UML:Zoom>100</UML:Zoom>
+</UML:DiagramView>
+</UML:DiagramView>
+</UML:Workspace>
+</UML:Workspace>
+</UML:Model>
+</RMS:ROOT>
+</RMS:MODEL>

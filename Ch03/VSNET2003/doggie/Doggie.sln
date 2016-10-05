@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "doggie", "doggie.vbproj", "{20C2CB76-5C43-4E3A-8000-A33984123BFC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{20C2CB76-5C43-4E3A-8000-A33984123BFC}.Debug.ActiveCfg = Debug|.NET
+		{20C2CB76-5C43-4E3A-8000-A33984123BFC}.Debug.Build.0 = Debug|.NET
+		{20C2CB76-5C43-4E3A-8000-A33984123BFC}.Release.ActiveCfg = Release|.NET
+		{20C2CB76-5C43-4E3A-8000-A33984123BFC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

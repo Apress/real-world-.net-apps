@@ -1,0 +1,1 @@
+vbc /target:winexe /out:DoggieGame.exe /r:System.dll,System.Windows.Forms.dll,System.Drawing.dll,mscorlib.dll Constants.vb Cat.vb Dog.vb GameActor.vb GameManager.vb Maze.vb RedCat.vb BlueCat.vb BlackCat.vb GreenCat.vb Form1.vb

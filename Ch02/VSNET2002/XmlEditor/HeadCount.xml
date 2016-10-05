@@ -1,0 +1,4 @@
+<hc:HeadCount xmlns:hc='xsdHeadCount' xsi:schemaLocation='xsdHeadCount HeadCount.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <Name>Waldo Pepper</Name>
+  <Name>Red Pepper</Name>
+</hc:HeadCount>

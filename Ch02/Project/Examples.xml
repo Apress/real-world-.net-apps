@@ -1,0 +1,12 @@
+<books>
+<book>
+  <title>Dogs are from Mars, Cats are from Venus</title>
+  <author>Monica Dewi</author>
+  <price>19.95</price>
+</book>
+<book>
+  <title>The Dark Side of Swiss Dark Chocolate</title>
+  <author>Afrin Lebong</author>
+  <price>29.95</price>
+</book>
+</books>

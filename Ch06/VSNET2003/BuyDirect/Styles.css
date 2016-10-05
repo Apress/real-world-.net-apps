@@ -1,0 +1,46 @@
+body {   background:#ffffff;   font-family: verdana;   font-size: 8pt;   font-weight: bold;   color: #000000; }
+A:link {   font-family: verdana;   font-size: 8pt;   color: #000000;   text-decoration:underline}		
+A:visited {   font-family: verdana;   font-size: 8pt;   color: #000000;   text-decoration:underline}
+	A:hover {   font-family: verdana;   font-size: 8pt;   color: #CCCCCC;   text-decoration:none}	
+.Header {
+  background: #CCCCCC;  color: #FFFFFF; 
+}
+
+.HeaderText1 {
+  font-family: verdana;   font-size: 13pt;   font-weight: bold; 
+}
+
+.HeaderText2 {
+  font-family: verdana;   font-size: 11pt;   font-weight: bold; 
+}
+.MenuHeader {  font-family: verdana;   font-size: 12pt;   font-weight: bold; 
+  background: #CCCCCC;  color: #FFFFFF; }		
+.MenuItem:link {   font-family: verdana;   font-size: 8pt;   font-weight: bold;   color: #000000;   text-decoration:none}		
+.MenuItem:visited {   font-family: verdana;   font-size: 8pt;   font-weight: bold;   color: #000000;   text-decoration:none}	
+.MenuItem:hover {   font-family: verdana;   font-size: 8pt;   font-weight: bold;   color: #bbccdd;   text-decoration:none}	
+.OuterTable {
+  background:#CCCCCC; }
+
+.InnerTable {
+  background:#EDEDED;
+}
+
+.PageHeader {  font-family: verdana;   font-size: 16pt;   font-weight: bold;   color: #CCCCCC; }		
+.SecondPageHeader {  font-family: verdana;   font-size: 14pt;   font-weight: bold;   color: #CCCCCC; }		
+.TableHeader {  font-family: verdana;   font-size: 12pt;   font-weight: bold;   color: #FFFFFF; }		
+.TableItem {  font-family: verdana;   font-size: 9pt;   color: #000000; }		
+.AlternatingTableItem {  font-family: verdana;   font-size: 9pt;   color: #000000; 
+}		
+.Footer {  font-family: verdana;   font-size: 8pt;   color: #000000; 
+}	
+
+.NormalLarge {
+  font-family: verdana;   font-size: 11pt; 
+  font-weight: bold;  color: #000000; 
+}	
+.NormalSmall {
+  font-family: verdana;   font-size: 10pt;   color: #000000; 
+}	
+.ErrorMessage {
+  font-family: verdana;   font-size: 10pt;   color: #FF0000; 
+}

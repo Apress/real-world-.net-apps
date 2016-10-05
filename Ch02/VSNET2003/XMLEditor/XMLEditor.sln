@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XMLEditor", "XMLEditor.vbproj", "{FC87962F-AE71-4328-91F8-E0C442273AFE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FC87962F-AE71-4328-91F8-E0C442273AFE}.Debug.ActiveCfg = Debug|.NET
+		{FC87962F-AE71-4328-91F8-E0C442273AFE}.Debug.Build.0 = Debug|.NET
+		{FC87962F-AE71-4328-91F8-E0C442273AFE}.Release.ActiveCfg = Release|.NET
+		{FC87962F-AE71-4328-91F8-E0C442273AFE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
